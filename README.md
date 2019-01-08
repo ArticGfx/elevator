@@ -3,11 +3,6 @@
 -> main cicuit to test out how all circuit work togethere.
 
 0.0.2
--> added the folder elevator wich contain the elevator circuit "TO COMPLETE" 3.1.2019
+-> added the folder elevator wich contain the elevator circuit 
 
-TO DO 
--> make the elevator capable to uderstand to closest destination
--> delay on the stop
--> animation movement
--> combination of all circuit 
--> documentation 
+stable realese coming by the end of the week
